@@ -2,9 +2,9 @@
 <h3 align="center">Ingeniero mecatrónico y desarrollador backend apasionado por la automatización y la nube ☁️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=35F7C8&center=true&vCenter=true&multiline=true&width=700&lines=Full+Stack+Developer;RPA+%7C+Backend+%7C+Cloud+%7C+Automatizaci%C3%B3n;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo+limpio" alt="typing-svg" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=35F7C8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Especialista+en+RPA%2C+Backend+y+Cloud;Apasionado+por+la+tecnología+y+el+código+limpio" alt="Typing SVG" />
 </p>
+
 
 
 ---
