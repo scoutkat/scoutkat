@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=35F7C8&center=true&vCenter=true&multiline=true&width=700&lines=Full+Stack+Developer;RPA+%7C+Backend+%7C+Cloud+%7C+Automatizaci%C3%B3n;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo+limpio" alt="typing-svg" />
+
 </p>
 
 ---
