@@ -31,12 +31,6 @@ I'm a **mechatronics engineer** and **full-stack developer** passionate about ba
 ![Power Platform](https://img.shields.io/badge/-Power%20Platform-742774?style=flat&logo=powerapps&logoColor=white)
 ![RPA](https://img.shields.io/badge/-RPA-0066CC?style=flat&logo=automation&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=foxkat-indus&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxkat-indus&layout=compact&theme=github_dark)
 
 ---
 
